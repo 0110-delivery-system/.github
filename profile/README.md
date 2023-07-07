@@ -1,5 +1,3 @@
-<div align="center">
-
 # 항해 0110조 #
 
 
@@ -9,20 +7,24 @@ TDD기반의 소규모 배달 프로그램 백엔드 프로젝트 입니다. CI/
 
 <br/>
 <br/>
+
 ## Member
 
-
+<div align="center">
+ 
 | 🧑 Leader | 🧑 Member | 🧑 Member |
 | :---: | :---: | :---: |
  [<img src="https://avatars.githubusercontent.com/u/90764424?v=4" width = "200">](https://github.com/taesikyoon)| [<img src="https://avatars.githubusercontent.com/u/112109663?v=4" width = "200" >](https://github.com/striker1826)|[<img src= "https://avatars.githubusercontent.com/u/103014298?v=4" width = "200">](https://github.com/keepinblazing)|
 | 윤태식 | 김민섭 | 박지민 | 
  
-
+</div>
 
 <br/>
 <br/>
 
 ## Skill Set
+
+<div align="center">
 
 | Framework | Database | Infra | CI/CD | Test |
 | :---: | :---: | :---: | :---: | :---: |
@@ -30,6 +32,8 @@ TDD기반의 소규모 배달 프로그램 백엔드 프로젝트 입니다. CI/
 | Nest Js | MySQL | AWS | Jenkins | Jest |
 
 </div>
+
+
 
 
 

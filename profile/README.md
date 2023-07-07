@@ -18,7 +18,10 @@ TDD기반의 소규모 배달 프로그램 백엔드 프로젝트 입니다. CI/
 
 ## Skill Set
 
-![nestjs](https://github.com/0110-delivery-system/.github/assets/103014298/99de128b-2355-4e0b-a1fb-299858b23a6b) ![ts](https://github.com/0110-delivery-system/.github/assets/103014298/59b90541-30c6-4f41-85f4-9023afa54670) ![mysql](https://github.com/0110-delivery-system/.github/assets/103014298/e0081792-815e-48c1-acbc-53fe1d5f84a3) ![jest](https://github.com/0110-delivery-system/.github/assets/103014298/57159cc1-e4f8-4174-90fc-58a582faf746)
+| Framework | Database | Infra | CI/CD | Test |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width = "200">| <img src="https://images.velog.io/images/bae_mung/post/2db5f978-3851-4b52-9242-8f1e9307755b/mysql.png" width = "200" >| <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width = "200" >| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/799px-Jenkins_logo_with_title.svg.png" width = "200" > | <img src="https://heropy.blog/css/images/vendor_icons/jest.png" width = "200" > |
+| Nest Js | MySQL | AWS | Jenkins | Jest |
 
 
 

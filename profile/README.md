@@ -12,9 +12,9 @@ TDD기반의 소규모 배달 프로그램 백엔드 프로젝트 입니다.
 
 <div align="center">
  
-| 🧑 Leader | 🧑 Member | 🧑 Member |
-| :---: | :---: | :---: |
- [<img src="https://avatars.githubusercontent.com/u/90764424?v=4" width = "200">](https://github.com/taesikyoon)| [<img src="https://avatars.githubusercontent.com/u/112109663?v=4" width = "200" >](https://github.com/striker1826)|[<img src= "https://avatars.githubusercontent.com/u/103014298?v=4" width = "200">](https://github.com/keepinblazing)|
+| 🧑 Leader  | 🧑 Member |
+| :---:  | :---: |
+ [<img src="https://avatars.githubusercontent.com/u/90764424?v=4" width = "200">](https://github.com/taesikyoon)|[<img src= "https://avatars.githubusercontent.com/u/103014298?v=4" width = "200">](https://github.com/keepinblazing)|
 | 윤태식 | 박지민 | 
  
 </div>

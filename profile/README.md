@@ -1,9 +1,14 @@
-# 항해 0110조 #
+# Quantum-Jump
+![6조로고](https://github.com/0110-delivery-system/.github/assets/103014298/ef882bd5-a25d-4d46-801a-52c0ae32d6a1)
+
+## Title
+
+Zip-Delivery
 
 
 ## Introduce
 
-TDD기반의 소규모 배달 프로그램 백엔드 프로젝트 입니다.
+TDD를 적용하여 구현 하였으며 CI/CD 및 통합 모니터링 시스템이 적용된 NestJs 백엔드 서버입니다.
 
 <br/>
 <br/>

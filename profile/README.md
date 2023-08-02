@@ -2,7 +2,7 @@
 <div align="center">
  
 ![6조로고](https://github.com/0110-delivery-system/.github/assets/103014298/eb40e12f-e729-496f-861a-dc0a6894fc84)
-
+<a href="https://www.flaticon.com/kr/free-icons/" title="로켓 아이콘">로켓 아이콘  제작자: photo3idea_studio - Flaticon</a>
 
 </div>
 

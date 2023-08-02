@@ -1,7 +1,8 @@
 # Quantum-Jump
 <div align="center">
  
-![6조로고](https://github.com/0110-delivery-system/.github/assets/103014298/ef882bd5-a25d-4d46-801a-52c0ae32d6a1)
+![6조로고](https://github.com/0110-delivery-system/.github/assets/103014298/eb40e12f-e729-496f-861a-dc0a6894fc84)
+
 
 </div>
 

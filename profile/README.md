@@ -10,7 +10,7 @@ TDD기반의 소규모 배달 프로그램 백엔드 프로젝트 입니다.
 
 ## Architecture
 
-![아키텍처](https://github.com/0110-delivery-system/.github/assets/103014298/d81e5b03-771a-40d9-aa74-70bf0d28ef71)
+![Frame 20](https://github.com/0110-delivery-system/.github/assets/103014298/ab1f704c-b1fe-40e2-a7e9-49048eaf4849)
 
 
 
